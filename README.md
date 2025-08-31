@@ -1,4 +1,4 @@
-# 🪐 ExoHabitat: A Learning Lab for Young Minds to Exoplanets and Habitability
+# 🪐 ExoHabitat: A GATEWAY WHERE CURIOSITY MEETS COSMOS
 
 ## 🌌 Table of Contents
 
