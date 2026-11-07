@@ -25,6 +25,7 @@
 ExoHabitat is a full-stack interactive web application that combines machine learning, astrophysics, and real-time 3D visualization to analyze and simulate the **habitability potential**, **exoplanet characteristics** of exoplanets. It leverages spectral analysis, atmospheric composition prediction, gravity simulations, and user-customizable planetary systems to create a rich exploration experience for scientists, students, and space enthusiasts.
 
 🌐 **Live Site:** [exohabitat.vercel.app](https://exohabitat.vercel.app)
+▶️ **Demonstration Link:** [Exohabitat](https://youtu.be/UbxZ8zZnER4)
 
 ## ✨ Features
 
